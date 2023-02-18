@@ -49,8 +49,7 @@
 
 #### repeats until user quits or Hero dies
 
-#Sample program output
-
+# Sample program output
 <img width="338" alt="image" src="https://user-images.githubusercontent.com/112827038/219847093-e07a38a6-6846-4755-9fd8-8ab9b5f35303.png">
 
 
