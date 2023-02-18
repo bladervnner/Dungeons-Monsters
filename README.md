@@ -1,12 +1,12 @@
-#Description
-Program that allows the user to explore a 5x5 map representing a dungeon maze. User can control the direction they want to go within the map, the user may encounter monsters along the way. The user can find health potions, as well as keys that can be used to progress to the next map. 
+# Description
+#### Program that allows the user to explore a 5x5 map representing a dungeon maze. User can control the direction they want to go within the map, the user may encounter monsters along the way. The user can find health potions, as well as keys that can be used to progress to the next map. 
 
-##Class descriptions
-###Entity - abstract - descrives a character within the game
-####an Entity has a name, some hit points
-####heal method resets hp to the meaxHp value
-####takeDamage method decreases the Entity's hp by the amount passed in. 
-####toString method displays the name and hp over maxHp
+## Class descriptions
+### Entity - abstract - descrives a character within the game
+#### an Entity has a name, some hit points
+#### heal method resets hp to the meaxHp value
+#### takeDamage method decreases the Entity's hp by the amount passed in. 
+#### toString method displays the name and hp over maxHp
 
 
 
